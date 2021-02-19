@@ -1,0 +1,24 @@
+Description
+Out of 36 students present in a class. Number of students studying physics are 20.
+ Number of students studying chemistry are 28.
+Questions.
+
+* find number of students studying only chemistry?
+A) 16	B) 36	C) 12	D) 29
+
+* find number of students studying only physics?
+A) 16	B) 36	C) 8	D) 29
+
+* find number of students studying physics?
+A) 16	B) 20	C) 8	D) 29
+
+* find number of students studying physics and chemistry?
+A) 16	B) 12	C) 8	D) 29
+
+* find number of students studying physics or chemistry?
+A) 16	B) 12	C) 8	D) 36
+
+* find number of students studying chemistry?
+A) 16	B) 12	C) 8	D) 29
+
+*End

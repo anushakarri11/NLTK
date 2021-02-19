@@ -1,0 +1,21 @@
+Description 
+Out of 50 students. 19 are taking english_composition. 34 are taking chemistry. 5 students are in both english_composition and chemistry classes.
+
+Questions.
+
+*How many students are taking chemistry and english_composition class ?
+A) 50	B) 19	C) 16	D) 5
+
+*How many students are taking only english_composition class ?
+A) 50	B) 19	C) 14	D) 5
+
+*How many students are taking only chemistry ?
+A) 50	B) 29	C) 16	D) 5
+
+*How many students are taking english_composition class ?
+A) 50	B) 19	C) 16	D) 5
+
+*How many students are taking chemistry ?
+A) 34	B) 19	C) 16	D) 5
+
+*End
