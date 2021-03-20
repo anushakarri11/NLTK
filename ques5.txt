@@ -1,0 +1,20 @@
+Description
+Out of 50 elements in a set. N( A ) = 20. N( B ) = 15. N( A and B ) = 7. N( A or B ) = 28
+Questions. 
+
+*Find the number of elements in A or B?
+A) 7	B) 13	C) 15 	D) 8
+
+*Find the number of elements in A?
+A) 7	B) 13	C) 15 	D) 8
+
+*Find the number of elements in B?
+A) 7	B) 13	C) 15 	D) 8
+
+*Find the number of elements only in A ?
+A) 7	B) 13	C) 15 	D) 8
+
+*Find the number of elements in A and B?
+A) 7	B) 13	C) 15 	D) 8
+
+*End
